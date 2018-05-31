@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "257881964160",
+    "firebase_url": "https://fir-5bc56.firebaseio.com",
+    "project_id": "fir-5bc56",
+    "storage_bucket": "fir-5bc56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257881964160:android:4445ae5899eebfdc",
+        "android_client_info": {
+          "package_name": "alexey.ru.firebasemessagingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257881964160-fas2bo0r1sg4u3c6rgl631elecqq1puk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alexey.ru.firebasemessagingservice",
+            "certificate_hash": "f3ffafc627090f78b25f3db6ec1c35f7d764324b"
+          }
+        },
+        {
+          "client_id": "257881964160-cn9f52desj5knrivclus5mjmopjpapkb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "257881964160-cn9f52desj5knrivclus5mjmopjpapkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwGvJxEugYjJS2HibOnmf9lUeNDKRPaCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257881964160-cn9f52desj5knrivclus5mjmopjpapkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
